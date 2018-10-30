@@ -26,4 +26,9 @@ Create a virtual object in the real world so you can touch and feel within a cer
     
  ### 3. The VR space object modelling, mapping the real coordinate to the virtual coordinate
   -  Needs more research 
+  
+  
+  ### To Do:
+   - Meet Dr Vic Boddy for bench
+   - 
     
