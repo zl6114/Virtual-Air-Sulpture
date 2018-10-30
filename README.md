@@ -30,5 +30,5 @@ Create a virtual object in the real world so you can touch and feel within a cer
   
   ### To Do:
    - Meet Dr Vic Boddy for bench
-   - 
+   - Quantative Information Vs Quality Informatiln
     
