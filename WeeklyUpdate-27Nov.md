@@ -15,4 +15,4 @@ Unity Documentation: https://leapmotion.github.io/UnityModules/
 LeapC Documentation: https://developer.leapmotion.com/documentation/v4/usingleapc.html
 
 ## NEED!
-need to add more definations to the project, what does it mean by touch, what does it mean by a virtual space, what hardware is going to be used for this project and so on so force. 
+need to add more definations to the project, what does it mean by touch, what does it mean by a virtual space, what hardware is going to be used for this project and so on so forth. 
